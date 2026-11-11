@@ -1,3 +1,5 @@
+<img width="646" height="215" alt="image" src="https://github.com/user-attachments/assets/aa9755e1-2c4f-416d-87cb-79f758db2b80" />
+
 # Bitbucket Contributions
 
 Gere um gráfico de contribuições (estilo GitHub) a partir dos seus commits no
