@@ -1,3 +1,5 @@
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/J0a00liveira/bitbucket-contributions-heatmap" /> <img alt="Github License" src="https://img.shields.io/github/license/J0a00liveira/bitbucket-contributions-heatmap" /> <img alt="" src="https://img.shields.io/github/repo-size/J0a00liveira/bitbucket-contributions-heatmap" />
+
 <img width="646" height="215" alt="image" src="https://github.com/user-attachments/assets/aa9755e1-2c4f-416d-87cb-79f758db2b80" />
 
 # Bitbucket Contributions
