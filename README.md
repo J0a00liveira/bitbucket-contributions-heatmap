@@ -1,6 +1,9 @@
 <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/J0a00liveira/bitbucket-contributions-heatmap" /> <img alt="Github License" src="https://img.shields.io/github/license/J0a00liveira/bitbucket-contributions-heatmap" /> <img alt="" src="https://img.shields.io/github/repo-size/J0a00liveira/bitbucket-contributions-heatmap" />
 
-<img width="646" height="215" alt="image" src="https://github.com/user-attachments/assets/aa9755e1-2c4f-416d-87cb-79f758db2b80" />
+<img width="1340" height="659" alt="heatmap config" src="https://github.com/user-attachments/assets/21d1318d-0906-4a37-a0c9-db8a4f70446c" />
+
+<img width="1140" height="673" alt="heatmap result" src="https://github.com/user-attachments/assets/7d20b23a-486c-470c-b82e-19bbf4a0df89" />
+
 
 # Bitbucket Contributions
 
@@ -70,8 +73,6 @@ npm run dev        # sobe em http://localhost:5173
 3. **URL do Bitbucket**
    - Cole a URL de um **repositório** para gerar o gráfico só dele:
      `https://bitbucket.org/{workspace}/{repositorio}`
-   - Ou a URL do **workspace** para incluir todos os repositórios:
-     `https://bitbucket.org/{workspace}`
    - O workspace e o repositório são extraídos automaticamente da URL.
 
 4. **Ano**
@@ -81,8 +82,5 @@ npm run dev        # sobe em http://localhost:5173
 ## Observações
 
 - O Bitbucket não possui um endpoint pronto de "contribuições". Quando você
-  informa a URL de um repositório, o app percorre os commits dele; quando
-  informa a URL do workspace, ele lista todos os repositórios e agrega a
-  contagem por dia.
-- Se você apontar para um workspace com muitos repositórios, a primeira busca
-  pode demorar um pouco.
+  informa a URL de um repositório, o app percorre todos os commits dele;
+- Logo, se você trabalha demais, a primeira busca pode demorar um pouco.
